@@ -1,0 +1,19 @@
+Realx is an innovative money disbursement system that aims to generate demand growth through it's unique and dynamic blocks rewards.
+It's a cryptocurrency with hybrid pos/pow mechanism. The POS structure is truly unique and dynamic, as there'll be 100 blocks of 7000% per annum ROI (named as Premium blocks), after every 1000 blocks, with base ROI of 3000%. This will generate continuous attraction for new investors, which will produce growth in the demand.
+
+Name: REALX
+Ticker: REALX
+Algorithm: Scrypt
+Type: POW / POS
+Maximum money: 1 billion (1,000,000,000)
+Premine: [20%] 200 million (200,000,000)
+p2p port=37272
+rpc port=37273
+Block Time: 1 min till 10,000 blocks, 2 min afterwards.
+Minimum stake age: 6 hours 
+Coinbase maturity: 10 confirmations
+Max block size: 2000000
+
+Rewards
+POS: 150%
+POW: 150 REALX
